@@ -5,8 +5,7 @@
 Labspec software, as far as I know, still has a bug when saving mapping data under raster images in high-quality export. Nevertheless, it is always possible to save the table of data in text format. Via this project, I created a solution to open this mapping data under different tunable color maps. 
 A visual interface, as well as a notebook file solution, are available for direct use.
 
-<img src="screenshot_app.png" alt="screenshot_app.png" style="width:300px;height:300px;"> 
-<img src="screenshot_triplefig.png" alt="screenshot_app.png" style="width:500px;height:200px;"> 
+<img src="preview_gui_nb.png" alt="screenshot_app.png" style="width:900px;height:200px;"> 
 
 The graphical interface allows a direct presentation of the map data after a loading of the txt file. The first notebook allows a plotting of the mapping in normal or binary mode. The second one allows the combination of two maps by performing arithmetic operations. This can be very useful to highlight the wanted information vis-à-vis the contribution of different peaks.
 
